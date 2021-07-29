@@ -1,4 +1,6 @@
-com.didispace: diyongchao
+com:
+  example:
+    configclient: diyongchao
 
 aaa:
   bbb: 111

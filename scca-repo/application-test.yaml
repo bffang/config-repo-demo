@@ -3,7 +3,8 @@ aaa:
   bbb: 111
   ddd: 333
 com:
-  didispace: diyongchao
+  example:
+    configclient: diyongchao
 mm:
   mm: ["aa","bb"]
 xxx:
